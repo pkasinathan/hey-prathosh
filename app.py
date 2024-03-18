@@ -22,3 +22,9 @@ st.markdown('---')
 # My Projects section
 st.markdown('### My Projects:')
 st.markdown("Coming soon...")
+
+st.markdown('---')
+
+# My Projects section
+st.markdown('### My Hobbies:')
+st.markdown("Coming soon...")
