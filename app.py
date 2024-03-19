@@ -16,7 +16,7 @@ st.markdown('---')
 
 # My Interests section
 st.markdown('### My Interests:')
-st.markdown("I am working at this moment...")
+st.markdown("I am working at this moment now...")
 
 st.markdown('---')
 
